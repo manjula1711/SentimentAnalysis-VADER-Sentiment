@@ -12,5 +12,6 @@ WTForms==2.2.1
 nltk>=3.4.5
 scikit-learn>=0.18
 requests
+setuptools==<version>
 
 
